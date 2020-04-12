@@ -1,0 +1,16 @@
+Chapter 9
+
+- Chapter 9 starts of explaining about API and routes using react route,
+- React route help us handling routing at browser side
+- react routes can be embedded into your ui by adding react-router-dom
+- react route comes with different components to help us handle routing like ulp param and passing ui data between components
+- some of very helpful react route components include { BrowserRouter, Route, Switch , links}
+- we can pass data such has id in url paths and gather this information from urlparams  
+- this helps us to query data from db clients.
+
+Chapter 10
+ - Chapter 10 starts of explaining about Forms in react using react-bootstrap, 
+ - most of the form components are a combination of bootstrap and react native
+ - React comes with its components of form called Form, FormControl, FormGroup
+ - this component gives us boiler plate code for validation, data mapping and data conversion
+ - other components help with syling , arrangement , alerts and layout
